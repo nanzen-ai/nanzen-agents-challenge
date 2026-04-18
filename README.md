@@ -1,4 +1,4 @@
-# Agent Technical Challenge
+# Agent Playground
 
 A multi-agent system that analyzes account data and produces PDF reports.
 Your job is to make it work well.
@@ -27,7 +27,7 @@ Clone the repo. Read the code. Come with questions.
 
 ```bash
 git clone <repo-url>
-cd agent-challenge
+cd nanzen-agents-playground
 make install
 
 # Configure your LLM provider (see .env.example)
@@ -106,7 +106,7 @@ think about them.
 ## Project Structure
 
 ```
-agent-challenge/
+nanzen-agents-playground/
 ├── README.md
 ├── pyproject.toml
 ├── Makefile                 # install, style, test, run
